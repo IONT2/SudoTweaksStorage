@@ -1,6 +1,0 @@
-{
-  "name": "Hide Shorts Section",
-  "description": "Hides the YouTube Shorts section on the homepage.",
-  "type": "removeElement",
-  "selector": "ytd-rich-grid-media.style-scope.ytd-rich-grid-renderer"
-}
