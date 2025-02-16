@@ -1,0 +1,5 @@
+{
+  "id": "removeGradient",
+  "label": "Remove Magenta Gradient on Progress Bar",
+  "defaultState": true
+}
