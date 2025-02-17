@@ -2,17 +2,17 @@
   "tweaks": [
     {
       "name": "Better Google UI",
-      "script": "google-ui.js",
+      "script": "googleUI.js",
       "icon": "https://www.google.com/favicon.ico"
     },
     {
       "name": "No Google AI Response",
-      "script": "remove-ai-google.js",
+      "script": "noGoogleAI.js",
       "icon": "https://www.google.com/favicon.ico"
     },
     {
       "name": "Remove Sponsored Content",
-      "script": "remove-sponsored-google.js",
+      "script": "noGoogleSponsors.js",
       "icon": "https://www.google.com/favicon.ico"
     }
   ]
