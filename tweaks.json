@@ -1,9 +1,19 @@
 {
   "tweaks": [
     {
-      "name": "YouTube Red Playbar",
-      "url": "youtube.com",
-      "script": "youtubeRedPlaybar.js"
+      "name": "Better Google UI",
+      "script": "google-ui.js",
+      "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+      "name": "No Google AI Response",
+      "script": "remove-ai-google.js",
+      "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+      "name": "Remove Sponsored Content",
+      "script": "remove-sponsored-google.js",
+      "icon": "https://www.google.com/favicon.ico"
     }
   ]
 }
