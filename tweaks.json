@@ -1,0 +1,9 @@
+{
+  "tweaks": [
+    {
+      "name": "YouTube Red Playbar",
+      "url": "youtube.com",
+      "script": "youtubeRedPlaybar.js"
+    }
+  ]
+}
