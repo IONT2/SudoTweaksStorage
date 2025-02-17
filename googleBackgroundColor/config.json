@@ -1,7 +1,0 @@
-{
-  "name": "Google Background Changer",
-  "description": "Changes Google's background color and adds a custom message.",
-  "website": "https://www.google.com",
-  "script": "script.js",
-  "css": "styles.css"
-}
