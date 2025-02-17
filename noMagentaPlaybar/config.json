@@ -1,7 +1,0 @@
-{
-  "name": "No Magenta Playbar",
-  "description": "Removes magenta gradient on playbar on youtube.",
-  "website": "https://www.youtube.com",
-  "script": "script.js",
-  "css": "styles.css"
-}
