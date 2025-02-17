@@ -1,19 +1,42 @@
-{
-  "tweaks": [
+[
+  {
+    "id": "remove-paa",
+    "name": "Remove People Also Ask",
+    "description": "Hides the 'People Also Ask' section.",
+    "matches": ["*://*.google.com/*"],
+    "css": [],
+    "js": ["remove-paa.js"]
+  },
+  {
+    "id": "remove-ads",
+    "name": "Remove Sponsored Ads",
+    "description": "Hides sponsored ads.",
+    "matches": ["*://*.google.com/*"],
+    "css": [],
+    "js": ["remove-ads.js"]
+  },
+  {
+    "id": "remove-featured-snippets",
+    "name": "Remove Featured Snippets",
+    "description": "Hides Featured Snippets.",
+    "matches": ["*://*.google.com/*"],
+    "css": [],
+    "js": ["remove-featured-snippets.js"]
+  },
+  {
+    "id": "customize-fonts",
+    "name": "Customize Fonts",
+    "description": "Changes the font of search results.",
+    "matches": ["*://*.google.com/*"],
+    "css": ["customize-fonts.css"],
+    "js": []
+  },
     {
-      "name": "Better Google UI",
-      "script": "googleUI.js",
-      "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-      "name": "No Google AI Response",
-      "script": "noGoogleAI.js",
-      "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-      "name": "Remove Sponsored Content",
-      "script": "noGoogleSponsors.js",
-      "icon": "https://www.google.com/favicon.ico"
-    }
-  ]
-}
+    "id": "bold-search-terms",
+    "name": "Bold Search Terms",
+    "description": "Bolds the search terms.",
+    "matches": ["*://*.google.com/*"],
+    "css": ["bold-search-terms.css"],
+    "js": []
+  }
+]
