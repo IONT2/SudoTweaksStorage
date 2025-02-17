@@ -1,0 +1,1 @@
+(function() {const style = document.createElement('style');style.innerHTML = `.ytp-play-progress {background: none !important;background-color: #fc0e34 !important; /* change color to red */}`;document.head.appendChild(style);})();
